@@ -1,3 +1,5 @@
-#this is my yuge bio inf pipelin
+#this is my yuge bio inf pipeline
 #adding changes
+#fix typos
+
   
